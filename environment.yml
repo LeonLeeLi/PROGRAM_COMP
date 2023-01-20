@@ -3,6 +3,6 @@ dependencies:
   - pip:
     - numpy
     - pandas
-    - viola
+    - voila
     - streamlit
     - pywebio
